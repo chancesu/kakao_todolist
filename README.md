@@ -1,5 +1,10 @@
 # vue_todo
 vue , vue-router , vuex , localstorage(createPersistedState , SecureLS 사용 암호화 저장)
+
+
+## Demo
+<img src="./demo.jpg" width="600">
+
 ## Project setup
 ```
 npm install
