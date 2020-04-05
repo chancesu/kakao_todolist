@@ -9,6 +9,7 @@ vue , vue-router , vuex , localstorage(createPersistedState , SecureLS 사용 �
 * 완료된 할일과 진행할 할일 별로 볼수있다.
 
 ## Demo
+https://kakao-todo.netlify.com/
 <img src="./demo.jpg" width="600">
 
 ## Project setup
