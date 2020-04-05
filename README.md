@@ -1,5 +1,5 @@
 # vue_todo
-
+vue , vue-router , vuex , localstorage(createPersistedState , SecureLS 사용 암호화 저장)
 ## Project setup
 ```
 npm install
