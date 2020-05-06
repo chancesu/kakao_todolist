@@ -8,7 +8,6 @@ vue , vue-router , vuex , localstorage(createPersistedState , SecureLS 사용 �
 * 상단 설정을 통해 요일별 문구를 사용자 설정으로 바꿀 수 있고 추가한 범주를 관리할 수 있다.
 * 완료된 할일과 진행할 할일 별로 볼수있다.
 
-## Demo : https://kakao-todo.netlify.com/
 <img src="./demo.jpg" width="600">
 
 ## Project setup
